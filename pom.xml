@@ -61,10 +61,6 @@
 
     <repositories>
 
-        <repository>
-            <id>golo-lang-snapshots</id>
-            <url>https://github.com/golo-lang/golo-lang/raw/master/snapshots</url>
-        </repository>
 
     </repositories>
 
